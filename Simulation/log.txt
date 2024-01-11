@@ -1,0 +1,2098 @@
+Iteration: 9
+
+Logged time:			 Sun Nov  7 17:42:35 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6346.42
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 0 / 1
+Total mismatches so far: 1 / 1
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 9
+
+Logged time:			 Sun Nov  7 17:42:35 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6436.15
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 0 / 2
+Total mismatches so far: 2 / 2
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 10
+
+Logged time:			 Sun Nov  7 17:42:35 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6253.08
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3878s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 0 / 3
+Total mismatches so far: 3 / 3
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 10
+
+Logged time:			 Sun Nov  7 17:42:35 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6434.14
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 0 / 4
+Total mismatches so far: 4 / 4
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 10
+
+Logged time:			 Sun Nov  7 17:42:35 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6239.88
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 1 / 5
+Total mismatches so far: 4 / 5
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 11
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6338.53
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3378s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 1 / 6
+Total mismatches so far: 5 / 6
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 11
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6484.54
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 1 / 7
+Total mismatches so far: 6 / 7
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 11
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:35 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6150.12
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 2 / 8
+Total mismatches so far: 6 / 8
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 12
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6135.59
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3478s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 3 / 9
+Total mismatches so far: 6 / 9
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 12
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6486.74
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 3 / 10
+Total mismatches so far: 7 / 10
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 12
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6138.26
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 4 / 11
+Total mismatches so far: 7 / 11
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 13
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6149.00
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 5 / 12
+Total mismatches so far: 7 / 12
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 13
+
+Logged time:			 Sun Nov  7 17:42:36 2021
+Alert reported time:	 Sun Nov  7 17:42:36 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6358.96
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 5 / 13
+Total mismatches so far: 8 / 13
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 14
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6356.97
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3473s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 5 / 14
+Total mismatches so far: 9 / 14
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 14
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6284.52
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 5 / 15
+Total mismatches so far: 10 / 15
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 14
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6322.85
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 6 / 16
+Total mismatches so far: 10 / 16
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 15
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6218.94
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3368s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 6 / 17
+Total mismatches so far: 11 / 17
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 15
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6217.37
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 6 / 18
+Total mismatches so far: 12 / 18
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 15
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6191.50
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 7 / 19
+Total mismatches so far: 12 / 19
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 15
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6070.21
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 7 / 20
+Total mismatches so far: 13 / 20
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 15
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6137.02
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 8 / 21
+Total mismatches so far: 13 / 21
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 16
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6067.88
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.4030s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 9 / 22
+Total mismatches so far: 13 / 22
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 16
+
+Logged time:			 Sun Nov  7 17:42:37 2021
+Alert reported time:	 Sun Nov  7 17:42:37 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6088.91
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 10 / 23
+Total mismatches so far: 13 / 23
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 17
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6109.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6149.14
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 24
+Total mismatches so far: 13 / 24
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 17
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6056.17
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 25
+Total mismatches so far: 14 / 25
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 17
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6012.25
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 26
+Total mismatches so far: 15 / 26
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 18
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6085.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6085.60			127.0.1.1			fit3143
+2					(0, 2)				5991.70			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6466.69
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 27
+Total mismatches so far: 16 / 27
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 18
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+3					(1, 0)				5909.70			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6084.07
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 28
+Total mismatches so far: 17 / 28
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 18
+
+Logged time:			 Sun Nov  7 17:42:38 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6126.50			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6233.90			127.0.1.1			fit3143
+8					(2, 2)				5956.00			127.0.1.1			fit3143
+4					(1, 1)				5933.30			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6497.47
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 29
+Total mismatches so far: 18 / 29
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6338.32
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3531s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 30
+Total mismatches so far: 19 / 30
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6232.64
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 31
+Total mismatches so far: 20 / 31
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6303.34
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 32
+Total mismatches so far: 21 / 32
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6355.66
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 33
+Total mismatches so far: 22 / 33
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6343.90
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 34
+Total mismatches so far: 23 / 34
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 19
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:38 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6397.18
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 11 / 35
+Total mismatches so far: 24 / 35
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 20
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6108.73
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3350s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 12 / 36
+Total mismatches so far: 24 / 36
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 20
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6108.23
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 13 / 37
+Total mismatches so far: 24 / 37
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 20
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6484.54
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 13 / 38
+Total mismatches so far: 25 / 38
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 20
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6018.99
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 14 / 39
+Total mismatches so far: 25 / 39
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6373.66
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3083s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 14 / 40
+Total mismatches so far: 26 / 40
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6422.69
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 14 / 41
+Total mismatches so far: 27 / 41
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6308.01
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 14 / 42
+Total mismatches so far: 28 / 42
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6339.24
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 14 / 43
+Total mismatches so far: 29 / 43
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6168.65
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 15 / 44
+Total mismatches so far: 29 / 44
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6042.76
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 16 / 45
+Total mismatches so far: 29 / 45
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 21
+
+Logged time:			 Sun Nov  7 17:42:39 2021
+Alert reported time:	 Sun Nov  7 17:42:39 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6398.84
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 16 / 46
+Total mismatches so far: 30 / 46
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6378.06
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3379s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 16 / 47
+Total mismatches so far: 31 / 47
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6439.25
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 16 / 48
+Total mismatches so far: 32 / 48
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6170.53
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 17 / 49
+Total mismatches so far: 32 / 49
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6122.08
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 17 / 50
+Total mismatches so far: 33 / 50
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6386.36
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 17 / 51
+Total mismatches so far: 34 / 51
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 22
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6200.40
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 17 / 52
+Total mismatches so far: 35 / 52
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6151.68
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3349s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 18 / 53
+Total mismatches so far: 35 / 53
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6171.71
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 19 / 54
+Total mismatches so far: 35 / 54
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6228.70
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 19 / 55
+Total mismatches so far: 36 / 55
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6491.35
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 19 / 56
+Total mismatches so far: 37 / 56
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6343.96
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 19 / 57
+Total mismatches so far: 38 / 57
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 23
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6273.05
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 19 / 58
+Total mismatches so far: 39 / 58
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 24
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6014.27
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3214s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 20 / 59
+Total mismatches so far: 39 / 59
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 24
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6451.01
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 20 / 60
+Total mismatches so far: 40 / 60
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 24
+
+Logged time:			 Sun Nov  7 17:42:40 2021
+Alert reported time:	 Sun Nov  7 17:42:40 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6273.11
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 21 / 61
+Total mismatches so far: 40 / 61
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 25
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6480.59
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3116s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 21 / 62
+Total mismatches so far: 41 / 62
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 25
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6336.06
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 21 / 63
+Total mismatches so far: 42 / 63
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 25
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6247.71
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 21 / 64
+Total mismatches so far: 43 / 64
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 25
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6471.83
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 21 / 65
+Total mismatches so far: 44 / 65
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 25
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6079.96
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 22 / 66
+Total mismatches so far: 44 / 66
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6169.73
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 23 / 67
+Total mismatches so far: 44 / 67
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6346.74
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 23 / 68
+Total mismatches so far: 45 / 68
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6227.32
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 23 / 69
+Total mismatches so far: 46 / 69
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6040.03
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 24 / 70
+Total mismatches so far: 46 / 70
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6173.75
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 24 / 71
+Total mismatches so far: 47 / 71
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 26
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6454.55
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 24 / 72
+Total mismatches so far: 48 / 72
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6080.51
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3372s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 25 / 73
+Total mismatches so far: 48 / 73
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6331.26
+Satellite altimeter reporting Cord : (0, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 25 / 74
+Total mismatches so far: 49 / 74
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6182.58
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 26 / 75
+Total mismatches so far: 49 / 75
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6016.90
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 27 / 76
+Total mismatches so far: 49 / 76
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+2					(0, 2)				5973.70			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6057.46
+Satellite altimeter reporting Cord : (1, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 28 / 77
+Total mismatches so far: 49 / 77
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6404.65
+Satellite altimeter reporting Cord : (2, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 28 / 78
+Total mismatches so far: 50 / 78
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6380.41
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 28 / 79
+Total mismatches so far: 51 / 79
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 27
+
+Logged time:			 Sun Nov  7 17:42:41 2021
+Alert reported time:	 Sun Nov  7 17:42:41 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6235.30
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 28 / 80
+Total mismatches so far: 52 / 80
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 28
+
+Logged time:			 Sun Nov  7 17:42:42 2021
+Alert reported time:	 Sun Nov  7 17:42:42 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6188.36
+Satellite altimeter reporting Cord : (0, 0)
+Communication time: 0.3394s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 29 / 81
+Total mismatches so far: 52 / 81
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 28
+
+Logged time:			 Sun Nov  7 17:42:42 2021
+Alert reported time:	 Sun Nov  7 17:42:42 2021
+Alert type: 			 Match(or True)
+
+Reporting Node		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+0					(0, 0)				6094.90			127.0.1.1			fit3143
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6065.06
+Satellite altimeter reporting Cord : (1, 0)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 30 / 82
+Total mismatches so far: 52 / 82
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 28
+
+Logged time:			 Sun Nov  7 17:42:42 2021
+Alert reported time:	 Sun Nov  7 17:42:42 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+3					(1, 0)				6114.10			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+1					(0, 1)				6094.90			127.0.1.1			fit3143
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6391.34
+Satellite altimeter reporting Cord : (1, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 4
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 30 / 83
+Total mismatches so far: 53 / 83
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 28
+
+Logged time:			 Sun Nov  7 17:42:42 2021
+Alert reported time:	 Sun Nov  7 17:42:42 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+6					(2, 0)				6199.40			127.0.1.1			fit3143
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+4					(1, 1)				6016.10			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6393.27
+Satellite altimeter reporting Cord : (2, 1)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 3
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 30 / 84
+Total mismatches so far: 54 / 84
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Iteration: 28
+
+Logged time:			 Sun Nov  7 17:42:42 2021
+Alert reported time:	 Sun Nov  7 17:42:42 2021
+Alert type: 			 Mismatch(or False)
+
+Reporting Node		Coord				Height				ip				Hostname
+8					(2, 2)				6053.60			127.0.1.1			fit3143
+
+Adjacent Nodes		Coord				Height				ip				Hostname
+7					(2, 1)				6009.90			127.0.1.1			fit3143
+5					(1, 2)				6002.40			127.0.1.1			fit3143
+
+Satellite altimeter reporting time: Sun Nov  7 17:42:32 2021
+Satellite altimeter reporting height : 6173.05
+Satellite altimeter reporting Cord : (2, 2)
+Communication time: 0.0000s
+Number of adjacent matches to reporting node: 2
+Max. tolerance range between nodes readings (m): 500
+Max. tolerance range between satellite altimeter and reporting node readings (m): 100
+Total matches so far: 30 / 85
+Total mismatches so far: 55 / 85
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
