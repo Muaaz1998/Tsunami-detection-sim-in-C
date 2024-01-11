@@ -1,7 +1,7 @@
 # Tsunami-detection-sim-in-C
 A simulation of Wireless Sensory Networks using MPI virtual topologies to simulate a tsunami detection system
 
-In order to run the programme please open the terminal --> navigate to the directory where you put this folder and type in the commands:
+In order to run the programme please open the terminal --> navigate to the directory of the folder and type in the commands:
 
 `$make out`
 
